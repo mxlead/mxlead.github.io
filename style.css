@@ -1,0 +1,13 @@
+img {
+	width: 45%;
+    margin: 5px;
+    border-radius: 50px;
+}
+h4 {
+	color: red;
+	font-weight: bold;
+}
+div {
+	background-color: black;
+}
+
