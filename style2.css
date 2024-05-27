@@ -6,6 +6,6 @@ div {
 }
 .button1 {
 	border: solid black;
-	color: rgb(255, 0, 0);
+  	color: rgb(255, 0, 0);
 	border-radius: 4px 4px 4px 4px;
 }
